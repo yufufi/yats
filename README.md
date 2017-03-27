@@ -27,7 +27,9 @@ Read me later
 Every week send me all the tasks that has this etc
 
 ### api
-- Add a new task
+- Add a default task
+/projects/default/addTask
+
 - Add a new project
 - Add a tag to a task/project
 - Remove a tag from a task/project
